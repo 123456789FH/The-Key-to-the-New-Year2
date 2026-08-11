@@ -1,12 +1,12 @@
 
 (() => {
   const paths = {
-    home: "./assets/screens/home.webp",
-    goal: "./assets/screens/goal.webp",
-    learn: "./assets/screens/learn.webp",
-    change: "./assets/screens/change.webp",
-    impact: "./assets/screens/impact.webp",
-    message: "./assets/screens/message.webp"
+    home: "./home.webp",
+    goal: "./goal.webp",
+    learn: "./learn.webp",
+    change: "./change.webp",
+    impact: "./impact.webp",
+    message: "./message.webp"
   };
 
   const titles = {

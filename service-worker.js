@@ -6,15 +6,15 @@ const ASSETS = [
   "./app.css",
   "./app.js",
   "./manifest.json",
-  "./assets/screens/home.webp",
-  "./assets/screens/goal.webp",
-  "./assets/screens/learn.webp",
-  "./assets/screens/change.webp",
-  "./assets/screens/impact.webp",
-  "./assets/screens/message.webp",
-  "./assets/icons/icon-192.png",
-  "./assets/icons/icon-512.png",
-  "./assets/icons/apple-touch-icon.png"
+  "./home.webp",
+  "./goal.webp",
+  "./learn.webp",
+  "./change.webp",
+  "./impact.webp",
+  "./message.webp",
+  "./icon-192.png",
+  "./icon-512.png",
+  "./apple-touch-icon.png"
 ];
 
 self.addEventListener("install", event => {

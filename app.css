@@ -226,7 +226,7 @@ button { cursor: pointer; }
   padding: clamp(16px, 3vw, 32px);
   background:
     linear-gradient(rgba(5,59,113,.38), rgba(2,42,88,.76)),
-    url("./assets/screens/home.webp") center top / cover no-repeat fixed;
+    url("./home.webp") center top / cover no-repeat fixed;
   display: flex;
   align-items: flex-start;
   justify-content: center;
